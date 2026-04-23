@@ -1,0 +1,32 @@
+header, footer {
+    border: 2px solid #093a2e;
+    width: calc(80% + 70px);
+    background-color: white;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    float: left;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#leftBlock, #infopage {
+    border: 2px solid #093a2e;
+    background-color: white;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    float: left;
+}
+
+#leftBlock {
+    width: 20%;
+}
+
+#infopage {
+    width: 63%;
+}
+
+#leftBlock {
+    margin-left: 5%;
+}
